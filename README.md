@@ -19,6 +19,16 @@ This repository is organized into two primary components:
 
 2.  **Object Classification (`Final_Classification_of_Space_Object.ipynb`)**: This notebook focuses on the classification of celestial objects into three distinct categories: galaxies, quasars, and stars. It utilizes a variety of supervised learning algorithms and includes hyperparameter tuning to optimize classification accuracy.
 
+## Repository Structure
+
+```
+/
+├── 📄 Classification of Space Objects.ipynb
+├── 📄 Final_Classification_of_Space_Object.ipynb
+├── 📄 Hubble Diagram Project.ipynb
+└── 📄 README.md
+```
+
 
 ## Data
 
