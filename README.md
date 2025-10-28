@@ -7,3 +7,14 @@ This project proposed a mathematical model for automated classification of space
 *   `space_object_classification.ipynb`: This notebook covers the classification of space objects.
 *   `final_space_object_classification.ipynb`: This notebook contains the final model for the classification of space objects.
 *   `hubble_diagram_project.ipynb`: This notebook contains the project related to the Hubble Diagram.
+
+## File Structure
+```ascii
+.
+├── data/
+│   └── .gitkeep
+├── final_space_object_classification.ipynb
+├── hubble_diagram_project.ipynb
+├── README.md
+└── space_object_classification.ipynb
+```
